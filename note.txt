@@ -1,0 +1,2 @@
+// protoc CLI -> make proto file golang
+protoc --go-grpc_out=. greet/greetpb/greet.proto
